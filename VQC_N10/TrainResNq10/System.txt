@@ -1,0 +1,209 @@
+Running begins at 	2023-09-14 16:56:46
+number of qubits (Nq) =	14
+initial state = 	Random
+ 
+ Running begins at 	2023-09-14 17:22:44
+number of qubits (Nq) =	10
+initial state = 	Random
+ 
+ 
+state Fidelity  	(-0.8814684-0.45046437j)
+rho   Fidelity  	(0.97990465+0j)
+Running ends at 	2023-09-14 17:27:11
+
+Running begins at 	2023-09-14 17:27:11
+number of qubits (Nq) =	10
+initial state = 	Random
+ 
+ 
+state Fidelity  	(-0.07072438-0.9874365j)
+rho   Fidelity  	(0.98003274+0j)
+Running ends at 	2023-09-14 17:30:59
+
+Running begins at 	2023-09-14 17:30:59
+number of qubits (Nq) =	10
+initial state = 	Random
+ 
+ 
+state Fidelity  	(0.070206136-0.98726594j)
+rho   Fidelity  	(0.97962296+0j)
+Running ends at 	2023-09-14 17:34:34
+
+Running begins at 	2023-09-14 17:34:34
+number of qubits (Nq) =	10
+initial state = 	Random
+ 
+ 
+state Fidelity  	(0.7845439+0.60354525j)
+rho   Fidelity  	(0.97977597+0j)
+Running ends at 	2023-09-14 17:39:04
+
+Running begins at 	2023-09-14 17:39:04
+number of qubits (Nq) =	10
+initial state = 	Random
+ 
+ 
+state Fidelity  	(-0.8192448-0.55583185j)
+rho   Fidelity  	(0.9801111+0j)
+Running ends at 	2023-09-14 17:43:45
+
+
+Running begins at 	2023-09-14 18:01:41
+number of qubits (Nq) =	10
+initial state = 	Random
+state Fidelity  	(0.6747694-0.7099852j)
+rho   Fidelity  	(0.9593927+0j)
+Running ends at 	2023-09-14 18:04:29
+
+
+Running begins at 	2023-09-14 18:04:29
+number of qubits (Nq) =	10
+initial state = 	Random
+state Fidelity  	(-0.70677227+0.67770696j)
+rho   Fidelity  	(0.9588138+0j)
+Running ends at 	2023-09-14 18:07:37
+
+
+Running begins at 	2023-09-14 18:07:37
+number of qubits (Nq) =	10
+initial state = 	Random
+state Fidelity  	(-0.77000034-0.6061762j)
+rho   Fidelity  	(0.9603501+0j)
+Running ends at 	2023-09-14 18:10:09
+
+
+Running begins at 	2023-09-14 18:10:09
+number of qubits (Nq) =	10
+initial state = 	Random
+state Fidelity  	(0.90350366+0.37859225j)
+rho   Fidelity  	(0.959651+0j)
+Running ends at 	2023-09-14 18:12:52
+
+
+Running begins at 	2023-09-14 18:12:52
+number of qubits (Nq) =	10
+initial state = 	Random
+state Fidelity  	(0.93835694-0.28159595j)
+rho   Fidelity  	(0.95981+0j)
+Running ends at 	2023-09-14 18:15:42
+
+
+Running begins at 	2023-09-14 18:16:06
+number of qubits (Nq) =	10
+initial state = 	Random
+state Fidelity  	(-0.74620426+0.6190171j)
+rho   Fidelity  	(0.94000304+0j)
+Running ends at 	2023-09-14 18:18:15
+
+
+Running begins at 	2023-09-14 18:18:15
+number of qubits (Nq) =	10
+initial state = 	Random
+state Fidelity  	(-0.28655243-0.9252792j)
+rho   Fidelity  	(0.93825394+0j)
+Running ends at 	2023-09-14 18:21:10
+
+
+Running begins at 	2023-09-14 18:21:10
+number of qubits (Nq) =	10
+initial state = 	Random
+state Fidelity  	(-0.5959213+0.76360726j)
+rho   Fidelity  	(0.93821824+0j)
+Running ends at 	2023-09-14 18:23:22
+
+
+Running begins at 	2023-09-14 18:23:22
+number of qubits (Nq) =	10
+initial state = 	Random
+state Fidelity  	(-0.9148283-0.31981364j)
+rho   Fidelity  	(0.9391916+0j)
+Running ends at 	2023-09-14 18:25:35
+
+
+Running begins at 	2023-09-14 18:25:35
+number of qubits (Nq) =	10
+initial state = 	Random
+state Fidelity  	(0.29727596+0.9225093j)
+rho   Fidelity  	(0.93939644+0j)
+Running ends at 	2023-09-14 18:27:56
+
+
+Running begins at 	2023-09-14 18:27:56
+number of qubits (Nq) =	10
+initial state = 	Random
+state Fidelity  	(-0.7531606-0.5941113j)
+rho   Fidelity  	(0.9202192+0j)
+Running ends at 	2023-09-14 18:29:55
+
+
+Running begins at 	2023-09-14 18:29:55
+number of qubits (Nq) =	10
+initial state = 	Random
+state Fidelity  	(0.9593129+0.0038567414j)
+rho   Fidelity  	(0.9202962+0j)
+Running ends at 	2023-09-14 18:32:02
+
+
+Running begins at 	2023-09-14 18:32:02
+number of qubits (Nq) =	10
+initial state = 	Random
+state Fidelity  	(-0.38574156-0.8773943j)
+rho   Fidelity  	(0.91861737+0j)
+Running ends at 	2023-09-14 18:33:47
+
+
+Running begins at 	2023-09-14 18:33:47
+number of qubits (Nq) =	10
+initial state = 	Random
+state Fidelity  	(-0.19276196+0.9383827j)
+rho   Fidelity  	(0.91771924+0j)
+Running ends at 	2023-09-14 18:35:56
+
+
+Running begins at 	2023-09-14 18:35:56
+number of qubits (Nq) =	10
+initial state = 	Random
+state Fidelity  	(-0.87368584-0.39498508j)
+rho   Fidelity  	(0.91934013+0j)
+Running ends at 	2023-09-14 18:38:04
+
+
+Running begins at 	2023-09-14 18:38:04
+number of qubits (Nq) =	10
+initial state = 	Random
+state Fidelity  	(-0.4101612+0.8531665j)
+rho   Fidelity  	(0.8961253+0j)
+Running ends at 	2023-09-14 18:39:52
+
+
+Running begins at 	2023-09-14 18:39:52
+number of qubits (Nq) =	10
+initial state = 	Random
+state Fidelity  	(0.5455998-0.7742355j)
+rho   Fidelity  	(0.89711976+0j)
+Running ends at 	2023-09-14 18:41:47
+
+
+Running begins at 	2023-09-14 18:41:47
+number of qubits (Nq) =	10
+initial state = 	Random
+state Fidelity  	(-0.09632163+0.94233346j)
+rho   Fidelity  	(0.8972702+0j)
+Running ends at 	2023-09-14 18:43:40
+
+
+Running begins at 	2023-09-14 18:43:40
+number of qubits (Nq) =	10
+initial state = 	Random
+state Fidelity  	(0.922511-0.22006497j)
+rho   Fidelity  	(0.89945513+0j)
+Running ends at 	2023-09-14 18:45:36
+
+
+Running begins at 	2023-09-14 18:45:36
+number of qubits (Nq) =	10
+initial state = 	Random
+state Fidelity  	(-0.66734636+0.6738658j)
+rho   Fidelity  	(0.89944625+0j)
+Running ends at 	2023-09-14 18:47:31
+
